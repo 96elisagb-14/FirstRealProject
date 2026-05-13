@@ -2,7 +2,7 @@
 
 This folder contains three starter files like the example screenshot:
 
-- `data.xlsx` — sample Excel workbook with sales data, formulas, a summary sheet, and exercise prompts.
+- `data.xlsx` — SAMPLE(EXAMPLE) Excel workbook with sales data, formulas, a summary sheet, and exercise prompts.
 - `script.py` — Python practice script that reads the workbook and prints basic analysis.
 - `README.md` — these instructions.
 
