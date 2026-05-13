@@ -36,3 +36,7 @@ def main() -> None:
     print ("checking issue")
 if __name__ == "__main__":
     main()
+
+
+#This is a example for print a new code for practice git and git hub
+print ("nice") 
